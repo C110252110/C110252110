@@ -1,4 +1,4 @@
-|      履歷        |<img src="https://github.com/C110252110/C110252110/blob/main/182513897.png" width=100 height=100/>|
+|      履歷        |<img src="https://github.com/C110252110/C110252110/blob/main/182513897.png" width=300 height=100/>|
 | ---------------- |:-----------------------------:|
 | 姓名             | 陳聖旻                  |
 | 學校             | 高雄科技大學                  |
