@@ -21,3 +21,5 @@
 - 電腦硬體裝修乙級
 - 電腦硬體裝修丙級
 - 工業電子丙級
+
+<img src="https://github.com/C110252110/C110252110/blob/main/qrcode.PNG" width="200" height="200">
